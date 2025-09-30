@@ -4,11 +4,9 @@
 
 🎓 Recent Computer Science graduate from UC Irvine (Class of 2025) with a passion for building impactful software.
 
-💼 Currently a Software Engineer Intern @ Sparx Labs, building cross-platform educational applications.
+💼 Software Engineer Intern @ Sparx Labs, build a cross-platform educational applications.
 
 🔬 Former Undergraduate Research Assistant specializing in ML for environmental data analysis and PFAS contamination prediction.
-
-👩‍🏫 Experienced educator - tutored 100+ students in Python, Java, and C++, achieving a 30% improvement in pass rates.
 
 🚀 Love working on full-stack development, AI/ML projects, and IoT systems.
 
